@@ -1,0 +1,16 @@
+{
+	"name": "tux-planet-speedrun-any-percent",
+	"version": "1.0.0",
+	"description": "Play through 10 platforming levels using save states!",
+	"main": "main.js",
+	"scripts": {
+		"dist": "electron-builder",
+		"start": "electron ."
+	},
+	"author": "dtsudo",
+	"license": "GPL-3.0-only",
+	"devDependencies": {
+		"electron": "^24.1.2",
+		"electron-builder": "^23.6.0"
+	}
+}
