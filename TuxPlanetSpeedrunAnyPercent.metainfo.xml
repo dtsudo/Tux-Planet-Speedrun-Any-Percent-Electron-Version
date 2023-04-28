@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2023 dtsudo -->
+<component type="desktop-application">
+	<id>io.github.dtsudo.TuxPlanetSpeedrunAnyPercent</id>
+	<metadata_license>CC0-1.0</metadata_license>
+	<project_license>GPL-3.0-only</project_license>
+	<content_rating type="oars-1.1">
+		<content_attribute id="violence-cartoon">mild</content_attribute>
+	</content_rating>
+	<name>Tux Planet Speedrun Any%</name>
+	<summary>Speedrun your way through 10 levels using save states!</summary>
+	<description>
+		<p>
+			The level design is unforgiving, but you have save states!
+		</p>
+		<p>
+			Use save states and other powers to traverse 10 platforming levels.
+		</p>
+	</description>
+	<developer_name>dtsudo</developer_name>
+	<url type="homepage">https://github.com/dtsudo/Tux-Planet-Speedrun-Any-Percent-Electron-Version</url>
+	<url type="bugtracker">https://github.com/dtsudo/Tux-Planet-Speedrun-Any-Percent-Electron-Version/issues</url>
+	<categories>
+		<category>Game</category>
+		<category>ActionGame</category>
+	</categories>
+	<screenshots>
+		<screenshot type="default">https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot1.png</screenshot>
+		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot2.png</screenshot>
+		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot3.png</screenshot>
+		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot4.png</screenshot>
+		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot5.png</screenshot>
+		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot6.png</screenshot>
+	</screenshots>
+	<releases>
+		<release version="1.05" date="2023-03-20" />
+	</releases>
+</component>
