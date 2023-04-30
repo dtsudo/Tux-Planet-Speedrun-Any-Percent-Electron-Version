@@ -1,6 +1,6 @@
 # Overview
 
-This is a fangame of SuperTux and SuperTux Advance. In this game, you play as Tux and speedrun your way through terribly-designed levels!
+This is a fangame of [SuperTux](https://www.supertux.org) and [SuperTux Advance](https://github.com/KelvinShadewing/supertux-advance). In this game, you play as Tux and speedrun your way through 10 levels using save states and other powers!
 
 # Licensing
 
