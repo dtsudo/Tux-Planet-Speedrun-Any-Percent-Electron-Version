@@ -28,12 +28,12 @@
 		<category>ActionGame</category>
 	</categories>
 	<screenshots>
-		<screenshot type="default">https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot1.png</screenshot>
-		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot2.png</screenshot>
-		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot3.png</screenshot>
-		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot4.png</screenshot>
-		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot5.png</screenshot>
-		<screenshot>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot6.png</screenshot>
+		<screenshot type="default"><image>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot1.png</image></screenshot>
+		<screenshot><image>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot2.png</image></screenshot>
+		<screenshot><image>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot3.png</image></screenshot>
+		<screenshot><image>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot4.png</image></screenshot>
+		<screenshot><image>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot5.png</image></screenshot>
+		<screenshot><image>https://dtsudo.github.io/Tux-Planet-Speedrun-Any-Percent-Electron-Version/screenshot6.png</image></screenshot>
 	</screenshots>
 	<releases>
 		<release version="1.05" date="2023-03-20" />
