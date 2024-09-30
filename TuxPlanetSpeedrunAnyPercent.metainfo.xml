@@ -9,6 +9,7 @@
 	</content_rating>
 	<name>Tux Planet Speedrun Any%</name>
 	<summary>Speedrun your way through 10 levels using save states!</summary>
+	<launchable type="desktop-id">io.github.dtsudo.TuxPlanetSpeedrunAnyPercent.desktop</launchable>
 	<description>
 		<p>
 			The level design is unforgiving, but you have save states!
